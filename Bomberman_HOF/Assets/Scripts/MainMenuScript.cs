@@ -17,6 +17,7 @@ public class MainMenuScript : MonoBehaviour {
 
 	public void NewGameButtonPressed(string newGameLevel)
 	{
+		Cursor.visible = false;
 		soundManager.StopEverySound ();
 
 		SceneManager.LoadScene (newGameLevel);
@@ -44,5 +45,6 @@ public class MainMenuScript : MonoBehaviour {
 	void Start()
 	{
 		OptionsPanel.SetActive (false);
+		Cursor.visible = true;
 	}
 }

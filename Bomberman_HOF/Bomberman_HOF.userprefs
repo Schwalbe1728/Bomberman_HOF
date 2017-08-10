@@ -1,15 +1,16 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InGameUIScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerScript.cs">
     <Files>
-      <File FileName="Assets\Scripts\BreakableWallScript.cs" Line="46" Column="61" />
-      <File FileName="Assets\Scripts\SoundManager.cs" Line="119" Column="23" />
-      <File FileName="Assets\Scripts\PlayerScript.cs" Line="102" Column="40" />
-      <File FileName="Assets\Scripts\BombScript.cs" Line="66" Column="32" />
-      <File FileName="Assets\Scripts\BombSpawnerScript.cs" Line="71" Column="40" />
-      <File FileName="Assets\Scripts\MonsterScript.cs" Line="117" Column="122" />
-      <File FileName="Assets\Scripts\GroundScript.cs" Line="4" Column="22" />
-      <File FileName="Assets\Scripts\InGameUIScript.cs" Line="45" Column="45" />
+      <File FileName="Assets\Scripts\BreakableWallScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="73" Column="56" />
+      <File FileName="Assets\Scripts\BombScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BombSpawnerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MonsterScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GroundScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InGameUIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenuScript.cs" Line="48" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

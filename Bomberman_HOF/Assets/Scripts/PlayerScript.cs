@@ -70,7 +70,7 @@ public class PlayerScript : MonoBehaviour, DamagedByExplosion {
 
 	void OnCollisionEnter(Collision collider)
 	{
-		if (collider.gameObject.tag.Equals ("Enemy")) 
+		if (collider.gameObject.tag.Equals ("Enemy") && Alive) 
 		{
 			Debug.Log ("HitEnemy");
 
